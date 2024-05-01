@@ -1,0 +1,1 @@
+# Classe de conexão com a API
