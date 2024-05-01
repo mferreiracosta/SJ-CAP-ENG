@@ -1,8 +1,6 @@
-# SJ-CAP-ENG
+# SJ-CAP-ENG 
+🚧 **EM CONSTRUÇÃO**  
 Repositório para desenvolvimento do projeto de capacitação do SouJunior.
-
-## Status do projeto
-🚧 **EM CONSTRUÇÃO**
 
 ## Pré-requisitos do desenvolvedor
 - Conhecimento em Git
@@ -16,7 +14,8 @@ Repositório para desenvolvimento do projeto de capacitação do SouJunior.
 1. Faça um fork deste repositório para sua própria conta do GitHub.
 2. Clone o fork para sua máquina local.
 3. Crie seu ambiente virtual com `python -m venv .venv`.
-4. Instale as dependências usando `pip install -r "requirements.txt"`.
+4. Ative seu ambiente virtual com `.\.venv\Scripts\activate`.
+5. Instale as dependências usando `pip install -r "requirements.txt"`.
 
 ## Contribuição
 Por favor, siga as diretrizes de contribuição do projeto.
